@@ -1,0 +1,49 @@
+C:\FirstBlood\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\FirstBlood\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\FirstBlood\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\FirstBlood\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\FirstBlood\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\FirstBlood\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\FirstBlood\DataAccessLayer\bin\Debug\Entities.dll
+C:\FirstBlood\DataAccessLayer\bin\Debug\Entities.pdb
+C:\FirstBlood\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\DataAccessLayer\bin\Debug\Entities.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\DataAccessLayer\bin\Debug\Entities.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\DataAccessLayer\bin\Debug\Entities.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\DataAccessLayer\bin\Debug\Entities.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\DataAccessLayer\bin\Debug\Entities.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\DataAccessLayer\bin\Debug\Entities.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\masaussu\ShinSekai\Coding\Görsel-Final\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\masaussu\ShinSekai\Coding\Görsel-Final\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\masaussu\ShinSekai\Coding\Görsel-Final\DataAccessLayer\bin\Debug\Entities.dll
+D:\masaussu\ShinSekai\Coding\Görsel-Final\DataAccessLayer\bin\Debug\mscorlib.dll
+D:\masaussu\ShinSekai\Coding\Görsel-Final\DataAccessLayer\bin\Debug\Entities.pdb
+D:\masaussu\ShinSekai\Coding\Görsel-Final\DataAccessLayer\bin\Debug\normidna.nlp
+D:\masaussu\ShinSekai\Coding\Görsel-Final\DataAccessLayer\bin\Debug\normnfc.nlp
+D:\masaussu\ShinSekai\Coding\Görsel-Final\DataAccessLayer\bin\Debug\normnfd.nlp
+D:\masaussu\ShinSekai\Coding\Görsel-Final\DataAccessLayer\bin\Debug\normnfkc.nlp
+D:\masaussu\ShinSekai\Coding\Görsel-Final\DataAccessLayer\bin\Debug\normnfkd.nlp
+D:\masaussu\ShinSekai\Coding\Görsel-Final\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\masaussu\ShinSekai\Coding\Görsel-Final\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\masaussu\ShinSekai\Coding\Görsel-Final\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

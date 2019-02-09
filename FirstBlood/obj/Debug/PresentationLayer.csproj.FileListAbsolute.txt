@@ -1,0 +1,70 @@
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\bin\Debug\FirstBlood.exe.config
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\bin\Debug\FirstBlood.exe
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\bin\Debug\FirstBlood.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\bin\Debug\BusinessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\bin\Debug\Entities.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\bin\Debug\DataAccessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\bin\Debug\BusinessLayer.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\bin\Debug\Entities.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\bin\Debug\DataAccessLayer.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\obj\Debug\FirstBlood.Properties.Resources.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\obj\Debug\PresentationLayer.csproj.CopyComplete
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\obj\Debug\FirstBlood.exe
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\obj\Debug\FirstBlood.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\obj\Debug\FirstBlood.KitapDetay.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\obj\Debug\FirstBlood.KitapEkle.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\obj\Debug\FirstBlood.MainForm.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\obj\Debug\FirstBlood.OduncVer.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\obj\Debug\FirstBlood.OgrenciDetay.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\FirstBlood\obj\Debug\FirstBlood.OgrenciEkle.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\bin\Debug\FirstBlood.exe.config
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\bin\Debug\FirstBlood.exe
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\bin\Debug\FirstBlood.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\bin\Debug\BusinessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\bin\Debug\Entities.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\bin\Debug\DataAccessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\bin\Debug\BusinessLayer.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\bin\Debug\Entities.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\bin\Debug\DataAccessLayer.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\obj\Debug\PresentationLayer.csprojAssemblyReference.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\obj\Debug\FirstBlood.KitapDetay.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\obj\Debug\FirstBlood.KitapEkle.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\obj\Debug\FirstBlood.MainForm.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\obj\Debug\FirstBlood.OduncVer.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\obj\Debug\FirstBlood.OgrenciDetay.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\obj\Debug\FirstBlood.OgrenciEkle.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\obj\Debug\FirstBlood.Properties.Resources.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\obj\Debug\PresentationLayer.csproj.CopyComplete
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\obj\Debug\FirstBlood.exe
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\FirstBlood\obj\Debug\FirstBlood.pdb
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\bin\Debug\FirstBlood.exe.config
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\obj\Debug\FirstBlood.exe
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\obj\Debug\FirstBlood.pdb
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\bin\Debug\FirstBlood.exe
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\bin\Debug\FirstBlood.pdb
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\bin\Debug\BusinessLayer.dll
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\bin\Debug\Entities.dll
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\bin\Debug\mscorlib.dll
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\bin\Debug\DataAccessLayer.dll
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\bin\Debug\BusinessLayer.pdb
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\bin\Debug\Entities.pdb
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\bin\Debug\DataAccessLayer.pdb
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\bin\Debug\normidna.nlp
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\bin\Debug\normnfc.nlp
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\bin\Debug\normnfd.nlp
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\bin\Debug\normnfkc.nlp
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\bin\Debug\normnfkd.nlp
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\obj\Debug\FirstBlood.KitapDetay.resources
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\obj\Debug\FirstBlood.KitapEkle.resources
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\obj\Debug\FirstBlood.MainForm.resources
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\obj\Debug\FirstBlood.OduncVer.resources
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\obj\Debug\FirstBlood.OgrenciDetay.resources
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\obj\Debug\FirstBlood.OgrenciEkle.resources
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\obj\Debug\FirstBlood.Properties.Resources.resources
+D:\masaussu\ShinSekai\Coding\Görsel-Final\FirstBlood\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache

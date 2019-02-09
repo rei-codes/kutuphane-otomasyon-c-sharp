@@ -1,0 +1,59 @@
+C:\FirstBlood\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\FirstBlood\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\FirstBlood\BusinessLayer\bin\Debug\DataAccessLayer.dll
+C:\FirstBlood\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\FirstBlood\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\FirstBlood\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\FirstBlood\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\FirstBlood\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\FirstBlood\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\FirstBlood\BusinessLayer\bin\Debug\Entities.dll
+C:\FirstBlood\BusinessLayer\bin\Debug\Entities.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\BusinessLayer\bin\Debug\DataAccessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\BusinessLayer\bin\Debug\Entities.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\BusinessLayer\bin\Debug\Entities.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\BusinessLayer\bin\Debug\DataAccessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\BusinessLayer\bin\Debug\Entities.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\BusinessLayer\bin\Debug\Entities.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\BusinessLayer\bin\Debug\DataAccessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\BusinessLayer\bin\Debug\Entities.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\BusinessLayer\bin\Debug\Entities.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\152120001 - Hasan Basri Bayat - Copy\BusinessLayer\obj\Debug\BusinessLayer.pdb
+D:\masaussu\ShinSekai\Coding\Görsel-Final\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\masaussu\ShinSekai\Coding\Görsel-Final\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\masaussu\ShinSekai\Coding\Görsel-Final\BusinessLayer\bin\Debug\DataAccessLayer.dll
+D:\masaussu\ShinSekai\Coding\Görsel-Final\BusinessLayer\bin\Debug\Entities.dll
+D:\masaussu\ShinSekai\Coding\Görsel-Final\BusinessLayer\bin\Debug\mscorlib.dll
+D:\masaussu\ShinSekai\Coding\Görsel-Final\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+D:\masaussu\ShinSekai\Coding\Görsel-Final\BusinessLayer\bin\Debug\Entities.pdb
+D:\masaussu\ShinSekai\Coding\Görsel-Final\BusinessLayer\bin\Debug\normidna.nlp
+D:\masaussu\ShinSekai\Coding\Görsel-Final\BusinessLayer\bin\Debug\normnfc.nlp
+D:\masaussu\ShinSekai\Coding\Görsel-Final\BusinessLayer\bin\Debug\normnfd.nlp
+D:\masaussu\ShinSekai\Coding\Görsel-Final\BusinessLayer\bin\Debug\normnfkc.nlp
+D:\masaussu\ShinSekai\Coding\Görsel-Final\BusinessLayer\bin\Debug\normnfkd.nlp
+D:\masaussu\ShinSekai\Coding\Görsel-Final\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+D:\masaussu\ShinSekai\Coding\Görsel-Final\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\masaussu\ShinSekai\Coding\Görsel-Final\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -1,0 +1,74 @@
+C:\Users\Franz\source\repos\FirstBlood\FirstBlood\bin\Debug\FirstBlood.exe.config
+C:\Users\Franz\source\repos\FirstBlood\FirstBlood\bin\Debug\FirstBlood.exe
+C:\Users\Franz\source\repos\FirstBlood\FirstBlood\bin\Debug\FirstBlood.pdb
+C:\Users\Franz\source\repos\FirstBlood\FirstBlood\obj\Debug\FirstBlood.csprojAssemblyReference.cache
+C:\Users\Franz\source\repos\FirstBlood\FirstBlood\obj\Debug\FirstBlood.Properties.Resources.resources
+C:\Users\Franz\source\repos\FirstBlood\FirstBlood\obj\Debug\FirstBlood.csproj.GenerateResource.cache
+C:\Users\Franz\source\repos\FirstBlood\FirstBlood\obj\Debug\FirstBlood.csproj.CoreCompileInputs.cache
+C:\Users\Franz\source\repos\FirstBlood\FirstBlood\obj\Debug\FirstBlood.exe
+C:\Users\Franz\source\repos\FirstBlood\FirstBlood\obj\Debug\FirstBlood.pdb
+C:\Users\Franz\source\repos\FirstBlood\FirstBlood\obj\Debug\FirstBlood.KitapEkle.resources
+C:\Users\Franz\source\repos\FirstBlood\FirstBlood\obj\Debug\FirstBlood.MainForm.resources
+C:\Users\Franz\source\repos\FirstBlood\FirstBlood\obj\Debug\FirstBlood.OgrenciEkle.resources
+C:\Users\Franz\source\repos\FirstBlood\FirstBlood\obj\Debug\FirstBlood.KitapDetay.resources
+C:\Users\Franz\source\repos\FirstBlood\FirstBlood\obj\Debug\FirstBlood.OgrenciDetay.resources
+C:\Users\Franz\source\repos\FirstBlood\FirstBlood\obj\Debug\FirstBlood.OduncVer.resources
+C:\Users\5HoW3R\Desktop\FirstBlood\FirstBlood\bin\Debug\FirstBlood.exe.config
+C:\Users\5HoW3R\Desktop\FirstBlood\FirstBlood\bin\Debug\FirstBlood.exe
+C:\Users\5HoW3R\Desktop\FirstBlood\FirstBlood\bin\Debug\FirstBlood.pdb
+C:\Users\5HoW3R\Desktop\FirstBlood\FirstBlood\obj\Debug\FirstBlood.csprojAssemblyReference.cache
+C:\Users\5HoW3R\Desktop\FirstBlood\FirstBlood\obj\Debug\FirstBlood.KitapDetay.resources
+C:\Users\5HoW3R\Desktop\FirstBlood\FirstBlood\obj\Debug\FirstBlood.KitapEkle.resources
+C:\Users\5HoW3R\Desktop\FirstBlood\FirstBlood\obj\Debug\FirstBlood.MainForm.resources
+C:\Users\5HoW3R\Desktop\FirstBlood\FirstBlood\obj\Debug\FirstBlood.OduncVer.resources
+C:\Users\5HoW3R\Desktop\FirstBlood\FirstBlood\obj\Debug\FirstBlood.OgrenciDetay.resources
+C:\Users\5HoW3R\Desktop\FirstBlood\FirstBlood\obj\Debug\FirstBlood.OgrenciEkle.resources
+C:\Users\5HoW3R\Desktop\FirstBlood\FirstBlood\obj\Debug\FirstBlood.Properties.Resources.resources
+C:\Users\5HoW3R\Desktop\FirstBlood\FirstBlood\obj\Debug\FirstBlood.csproj.GenerateResource.cache
+C:\Users\5HoW3R\Desktop\FirstBlood\FirstBlood\obj\Debug\FirstBlood.csproj.CoreCompileInputs.cache
+C:\Users\5HoW3R\Desktop\FirstBlood\FirstBlood\obj\Debug\FirstBlood.exe
+C:\Users\5HoW3R\Desktop\FirstBlood\FirstBlood\obj\Debug\FirstBlood.pdb
+C:\FirstBlood\FirstBlood\bin\Debug\FirstBlood.exe.config
+C:\FirstBlood\FirstBlood\bin\Debug\FirstBlood.exe
+C:\FirstBlood\FirstBlood\bin\Debug\FirstBlood.pdb
+C:\FirstBlood\FirstBlood\bin\Debug\BusinessLayer.dll
+C:\FirstBlood\FirstBlood\bin\Debug\DataAccessLayer.dll
+C:\FirstBlood\FirstBlood\bin\Debug\BusinessLayer.pdb
+C:\FirstBlood\FirstBlood\bin\Debug\DataAccessLayer.pdb
+C:\FirstBlood\FirstBlood\obj\Debug\FirstBlood.csprojAssemblyReference.cache
+C:\FirstBlood\FirstBlood\obj\Debug\FirstBlood.KitapDetay.resources
+C:\FirstBlood\FirstBlood\obj\Debug\FirstBlood.KitapEkle.resources
+C:\FirstBlood\FirstBlood\obj\Debug\FirstBlood.MainForm.resources
+C:\FirstBlood\FirstBlood\obj\Debug\FirstBlood.OduncVer.resources
+C:\FirstBlood\FirstBlood\obj\Debug\FirstBlood.OgrenciDetay.resources
+C:\FirstBlood\FirstBlood\obj\Debug\FirstBlood.OgrenciEkle.resources
+C:\FirstBlood\FirstBlood\obj\Debug\FirstBlood.Properties.Resources.resources
+C:\FirstBlood\FirstBlood\obj\Debug\FirstBlood.csproj.GenerateResource.cache
+C:\FirstBlood\FirstBlood\obj\Debug\FirstBlood.csproj.CoreCompileInputs.cache
+C:\FirstBlood\FirstBlood\obj\Debug\FirstBlood.csproj.CopyComplete
+C:\FirstBlood\FirstBlood\obj\Debug\FirstBlood.exe
+C:\FirstBlood\FirstBlood\obj\Debug\FirstBlood.pdb
+C:\FirstBlood\FirstBlood\bin\Debug\Entities.dll
+C:\FirstBlood\FirstBlood\bin\Debug\Entities.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\obj\Debug\FirstBlood.csprojAssemblyReference.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\obj\Debug\FirstBlood.KitapDetay.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\obj\Debug\FirstBlood.KitapEkle.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\obj\Debug\FirstBlood.MainForm.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\obj\Debug\FirstBlood.OduncVer.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\obj\Debug\FirstBlood.OgrenciDetay.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\obj\Debug\FirstBlood.OgrenciEkle.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\obj\Debug\FirstBlood.Properties.Resources.resources
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\obj\Debug\FirstBlood.csproj.GenerateResource.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\obj\Debug\FirstBlood.csproj.CoreCompileInputs.cache
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\obj\Debug\FirstBlood.exe
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\obj\Debug\FirstBlood.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\bin\Debug\FirstBlood.exe.config
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\bin\Debug\FirstBlood.exe
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\bin\Debug\FirstBlood.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\bin\Debug\BusinessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\bin\Debug\Entities.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\bin\Debug\DataAccessLayer.dll
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\bin\Debug\BusinessLayer.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\bin\Debug\Entities.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\bin\Debug\DataAccessLayer.pdb
+D:\masaussu\ShinSekai\Dersler\Görsel Programlama\FinalBlood\FirstBlood\obj\Debug\FirstBlood.csproj.CopyComplete
